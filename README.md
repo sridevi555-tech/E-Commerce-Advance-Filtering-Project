@@ -1,2 +1,8 @@
-# E-Commerce-Advance-Filtering-Project
-Create a sophisticated and user-friendly E-commerce product filtering system using ReactJS, designed to enhance the shopping experience for customers and help them find products more efficiently. This project aims to implement advanced filtering options, such as price ranges, category selection, sorting, and various attributes.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
